@@ -1,8 +1,8 @@
 # Coffee-Shop-Sale-Dashboard
-Overview
+Overview:
 The Coffee Shop Sales Dashboard is an interactive tool designed to provide insights into the sales performance of a coffee shop chain across three different locations in California. The dashboard offers various visualizations that help users analyze sales data, track product performance, and understand customer behavior over time.
 
-Features
+Features:
 Store Location Breakdown: A pie chart displaying the percentage distribution of sales across the three store locations: Hell's Kitchen, Astoria, and Lower Manhattan.
 
 Product Sales Analysis:
